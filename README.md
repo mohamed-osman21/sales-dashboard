@@ -8,7 +8,8 @@ This project is an interactive Excel dashboard designed to analyze and visualize
 ## 🎯 Objectives
 - Track performance trends
 - Analyze key metrics
-- Provide visual insights for decision-making
+- Provide visual insights for decision-making<img width="940" height="597" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/3be3816d-a827-4905-b125-347dd13ad2cf" />
+
 
 ## 🛠 Tools Used
 - Microsoft Excel
